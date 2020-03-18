@@ -1,2 +1,8 @@
 # atacworks_analysis
-Code to re-produce analyses in Lal &amp; Chiang, et al. (2019)
+Code used for analyses in Lal &amp; Chiang, et al. (2019)
+
+Dependencies
+- samtools (htslib.org)
+- bedtools (bedtools.readthedocs.io)
+- AtacWorks (github.com/clara-genomics/AtacWorks)
+- bedGraphToBigWig, bigWigToBedGraph (genome.ucsc.edu/goldenpath/help/bigWig.html)
